@@ -1,0 +1,14 @@
+{
+  "useTabs": false,
+  "tabWidth": 2,
+  "printWidth": 100,
+  "singleQuote": true,
+  "trailingComma": "none",
+  "bracketSpacing": true,
+  "semi": false,
+   "extends": [
+    "plugin:vue/essential",
+    "airbnb-base",
+    "plugin:prettier/recommended"
+  ]
+}
